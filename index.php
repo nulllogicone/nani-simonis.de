@@ -24,7 +24,7 @@
 				echo "<p>Current date and time: " . date("r") . "</p>";
 			?>
 		</p>
-		v2
+		v3
 	</body>
 </html>
 
