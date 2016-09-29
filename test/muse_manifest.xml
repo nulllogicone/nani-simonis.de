@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="false" exportTarget="other" domain="annebauerdesign.de/nani-simonis" resolutions="1x" timestamp="1474046915541">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="false" exportTarget="other" domain="annebauerdesign.de/nani-simonis" resolutions="1x" timestamp="1475186916649">
   <folder name="css">
     <file name="site_global.css" crc="3847166596"/>
-    <file name="master_navigation.css" crc="4181652470" ref="one-life:index:one-show"/>
-    <file name="nomq_preview_master_navigation.css" crc="4027524002" ref="one-life:index:one-show"/>
-    <file name="one-life.css" crc="398440057" ref="one-life"/>
-    <file name="nomq_one-life.css" crc="154399734" ref="one-life"/>
-    <file name="index.css" crc="3794267762" ref="index"/>
-    <file name="nomq_index.css" crc="3759945025" ref="index"/>
-    <file name="one-show.css" crc="3813913414" ref="one-show"/>
-    <file name="nomq_one-show.css" crc="131690711" ref="one-show"/>
+    <file name="master_navigation.css" crc="246842211" ref="one-life:index:one-show"/>
+    <file name="nomq_preview_master_navigation.css" crc="4281120145" ref="one-life:index:one-show"/>
+    <file name="one-life.css" crc="36451093" ref="one-life"/>
+    <file name="nomq_one-life.css" crc="90101969" ref="one-life"/>
+    <file name="index.css" crc="3779395688" ref="index"/>
+    <file name="nomq_index.css" crc="3760756959" ref="index"/>
+    <file name="one-show.css" crc="382812938" ref="one-show"/>
+    <file name="nomq_one-show.css" crc="472428493" ref="one-show"/>
   </folder>
   <folder name="assets">
     <file name="nanisimonis_one-work.jpg" crc="4236906012" seo="true" mt="1473535539000"/>
@@ -22,7 +22,7 @@
     <file name="nanisimonis_rippenstuecke_ab.jpg" crc="190009540" seo="true" mt="1473713447000"/>
     <file name="nanisimonis_studiomuc_small.mp4" crc="228464650" seo="true" mt="1473799202000"/>
     <file name="nanisimonis_studiomuc.jpg" crc="4008842760" seo="true" mt="1471555860000"/>
-    <file name="nanisimonis_studiomuc_small.webm" crc="403599130" seo="true" mt="1473803618000"/>
+    <file name="nanisimonis_studiomuc_small.webm" crc="3858340977" seo="true" mt="1475056081000"/>
     <file name="nanisimonis_rippenstueck_kontaktbogen_780.jpg" crc="37607260" seo="true" mt="1473881002000"/>
   </folder>
   <folder name="scripts">
@@ -83,7 +83,6 @@
     <file name="nanisimonis_sketchbook_1_843.jpg" crc="441060431" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4895.jpg" crc="127113902" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4897.jpg" crc="469627383" seo="true" ref="index"/>
-    <file name="img_4847.jpg" crc="243781280" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4894.jpg" crc="94223942" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_2_833.jpg" crc="136527901" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_afraid-unspoiled_800.jpg" crc="173736374" seo="true" ref="index"/>
@@ -158,7 +157,6 @@
     <file name="nanisimonis_collage33_800-crop-u108687.jpg" crc="4025585211" ref="index"/>
     <file name="nanisimonis_drawings_acw_09_09_082_800.jpg" crc="4141519553" seo="true" ref="index"/>
     <file name="nanisimonis_03176-ich-bin-ein-schwamm-k_800.jpg" crc="4274500957" seo="true" ref="index"/>
-    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u109227.jpg" crc="474371331" ref="index"/>
     <file name="nanisimonis_box_fleckich_800.jpg" crc="446787753" seo="true" ref="index"/>
     <file name="nanisimonis_painting_portrait_800.jpg" crc="338559616" seo="true" ref="index"/>
     <file name="nanisimonis_painting_match-1_800-crop-u110091.jpg" crc="457141138" ref="index"/>
@@ -176,7 +174,6 @@
     <file name="nanisimonis_kluges schaf_800-crop-u1019902.jpg" crc="216464347" ref="index"/>
     <file name="nanisimonis_painting_match_2_800.jpg" crc="158825650" seo="true" ref="index"/>
     <file name="nanisimonis_painting_move_5675_800.jpg" crc="523730551" seo="true" ref="index"/>
-    <file name="img_4847600x450.jpg" crc="4038732726" seo="true" ref="index"/>
     <file name="nanisimonis_faist041863_800.jpg" crc="3788724616" seo="true" ref="index"/>
     <file name="nanisimonis_painting_pieta_800.jpg" crc="4167813376" seo="true" ref="index"/>
     <file name="nanisimonis_collage_fisheyes_800-crop-u1048822.jpg" crc="3976747047" ref="index"/>
@@ -198,7 +195,6 @@
     <file name="nanisimonis_object_head_768267x356.png" crc="3991905255" seo="true" ref="index"/>
     <file name="nanisimonis_box_brain_800265x356.jpg" crc="365549829" seo="true" ref="index"/>
     <file name="nanisimonis_collage33_800-crop-u1086872.jpg" crc="267606005" ref="index"/>
-    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u1092272.jpg" crc="529706339" ref="index"/>
     <file name="nanisimonis_box_fleckich_800261x356.jpg" crc="446787753" seo="true" ref="index"/>
     <file name="nanisimonis_painting_match-1_800.jpg" crc="471135420" seo="true" ref="index"/>
     <file name="nanisimonis_23-nani_simonis_i__800-crop-u1076072.jpg" crc="4004936670" ref="index"/>
@@ -216,7 +212,6 @@
     <file name="nanisimonis_8-saint_sebastien_800-crop-u1073913.jpg" crc="3859139279" ref="index"/>
     <file name="nanisimonis_sculpture_ab_img_4886_600-crop-u1105233.jpg" crc="111150113" ref="index"/>
     <file name="nanisimonis_collage33_800-crop-u1086873.jpg" crc="267606005" ref="index"/>
-    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u1092273.jpg" crc="529706339" ref="index"/>
     <file name="nanisimonis_23-nani_simonis_i__800-crop-u1076073.jpg" crc="4004936670" ref="index"/>
     <file name="nanisimonis_collage_osterhase_6279_800-crop-u1012344.jpg" crc="3919279114" ref="index"/>
     <file name="nanisimonis_object_brain_acw_09_09_151_800-crop-u1026384.jpg" crc="419878983" ref="index"/>
@@ -232,7 +227,6 @@
     <file name="nanisimonis_8-saint_sebastien_800-crop-u1073914.jpg" crc="3859139279" ref="index"/>
     <file name="nanisimonis_sculpture_ab_img_4886_600-crop-u1105234.jpg" crc="111150113" ref="index"/>
     <file name="nanisimonis_collage33_800-crop-u1086874.jpg" crc="267606005" ref="index"/>
-    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u1092274.jpg" crc="529706339" ref="index"/>
     <file name="nanisimonis_23-nani_simonis_i__800-crop-u1076074.jpg" crc="4004936670" ref="index"/>
     <file name="nanisimonis_watzmann 2003_800200x277.jpg" crc="3975848844" seo="true" ref="index"/>
     <file name="nanisimonis_faist041933_800198x277.jpg" crc="516776320" seo="true" ref="index"/>
@@ -328,7 +322,6 @@
     <file name="nanisimonis_collage33_800-crop-u1086875.jpg" crc="38012214" ref="index"/>
     <file name="nanisimonis_drawings_acw_09_09_082_800194x277.jpg" crc="4242504874" seo="true" ref="index"/>
     <file name="nanisimonis_03176-ich-bin-ein-schwamm-k_800212x277.jpg" crc="4004279149" seo="true" ref="index"/>
-    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u1092275.jpg" crc="4186507221" ref="index"/>
     <file name="nanisimonis_box_fleckich_800203x277.jpg" crc="4185660378" seo="true" ref="index"/>
     <file name="nanisimonis_painting_portrait_800209x277.jpg" crc="4173467717" seo="true" ref="index"/>
     <file name="nanisimonis_painting_match-1_800-crop-u1100912.jpg" crc="242330960" ref="index"/>
@@ -372,7 +365,6 @@
     <file name="nanisimonis_sketchbook_1_843443x315.jpg" crc="441060431" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4895420x315.jpg" crc="4121311069" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4897420x315.jpg" crc="510377524" seo="true" ref="index"/>
-    <file name="img_4847420x315.jpg" crc="489520176" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4894420x315.jpg" crc="4017170916" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_2_833438x315.jpg" crc="136527901" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_afraid-unspoiled_800420x315.jpg" crc="3764520089" seo="true" ref="index"/>
@@ -446,7 +438,6 @@
     <file name="nanisimonis_collage33_800-crop-u1086876.jpg" crc="4196552720" ref="index"/>
     <file name="nanisimonis_drawings_acw_09_09_082_800176x252.jpg" crc="273676666" seo="true" ref="index"/>
     <file name="nanisimonis_03176-ich-bin-ein-schwamm-k_800193x252.jpg" crc="3849667962" seo="true" ref="index"/>
-    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u1092276.jpg" crc="497506065" ref="index"/>
     <file name="nanisimonis_box_fleckich_800184x252.jpg" crc="4237051044" seo="true" ref="index"/>
     <file name="nanisimonis_painting_portrait_800189x252.jpg" crc="4125782839" seo="true" ref="index"/>
     <file name="nanisimonis_painting_match-1_800-crop-u1100913.jpg" crc="4223012307" ref="index"/>
@@ -465,7 +456,6 @@
     <file name="nanisimonis_sketchbook_1_843399x284.jpg" crc="441060431" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4895378x284.jpg" crc="72829271" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4897378x284.jpg" crc="4010184663" seo="true" ref="index"/>
-    <file name="img_4847378x284.jpg" crc="500521306" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4894378x284.jpg" crc="11495347" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_2_833394x284.jpg" crc="136527901" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_afraid-unspoiled_800378x284.jpg" crc="189810433" seo="true" ref="index"/>
@@ -497,7 +487,6 @@
     <file name="nanisimonis_8-saint_sebastien_800-crop-u1073917.jpg" crc="4209892877" ref="index"/>
     <file name="nanisimonis_sculpture_ab_img_4886_600-crop-u1105237.jpg" crc="514591887" ref="index"/>
     <file name="nanisimonis_collage33_800-crop-u1086877.jpg" crc="4196552720" ref="index"/>
-    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u1092277.jpg" crc="3911272424" ref="index"/>
     <file name="nanisimonis_painting_match-1_800-crop-u1100914.jpg" crc="4223012307" ref="index"/>
     <file name="nanisimonis_23-nani_simonis_i__800-crop-u1076077.jpg" crc="4271016946" ref="index"/>
     <file name="nanisimonis_work.jpg" crc="396424687" seo="true" ref="index"/>
@@ -516,13 +505,11 @@
     <file name="nanisimonis_8-saint_sebastien_800-crop-u1073918.jpg" crc="3859139279" ref="index"/>
     <file name="nanisimonis_sculpture_ab_img_4886_600-crop-u1105238.jpg" crc="361636140" ref="index"/>
     <file name="nanisimonis_collage33_800-crop-u1086878.jpg" crc="267606005" ref="index"/>
-    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u1092278.jpg" crc="4098609017" ref="index"/>
     <file name="nanisimonis_23-nani_simonis_i__800-crop-u1076078.jpg" crc="4004936670" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4893288x216.jpg" crc="212908350" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_1_843304x216.jpg" crc="3877390045" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4895288x216.jpg" crc="4273115915" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4897288x216.jpg" crc="84768184" seo="true" ref="index"/>
-    <file name="img_4847288x216.jpg" crc="4059698250" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_ab-img_4894288x216.jpg" crc="4242465575" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_2_833300x216.jpg" crc="4078949660" seo="true" ref="index"/>
     <file name="nanisimonis_sketchbook_afraid-unspoiled_800288x216.jpg" crc="514192852" seo="true" ref="index"/>
@@ -550,7 +537,6 @@
     <file name="nanisimonis_8-saint_sebastien_800-crop-u1073919.jpg" crc="3859139279" ref="index"/>
     <file name="nanisimonis_sculpture_ab_img_4886_600-crop-u1105239.jpg" crc="111150113" ref="index"/>
     <file name="nanisimonis_collage33_800-crop-u1086879.jpg" crc="267606005" ref="index"/>
-    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u1092279.jpg" crc="428513231" ref="index"/>
     <file name="nanisimonis_23-nani_simonis_i__800-crop-u1076079.jpg" crc="4004936670" ref="index"/>
     <file name="nanisimonis_vintagecollage_self-portrait_web.jpg" crc="4048835436" seo="true" ref="one-life"/>
     <file name="nanisimonis_mix_ot-vogelkopf_8002.jpg" crc="358427635" seo="true" ref="one-life"/>
@@ -588,8 +574,42 @@
     <file name="atelier_ny2_800288x190.jpg" crc="4098796570" seo="true" ref="one-show"/>
     <file name="atelier_3_paris298x181.jpg" crc="4210332831" seo="true" ref="one-show"/>
     <file name="ab_ateliermuc_img_4845288x216.jpg" crc="4137110358" seo="true" ref="one-show"/>
+    <file name="nanisimonis_bronze_curves_800.jpg" crc="3824552696" seo="true" ref="index"/>
+    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u222205.jpg" crc="4127998602" ref="index"/>
+    <file name="nanisimonis_sketchbook_ab-img_4847.jpg" crc="3768257308" seo="true" ref="index"/>
+    <file name="nanisimonis_writing_angle_800.jpg" crc="3837031432" seo="true" ref="index"/>
+    <file name="nanisimonis_painting_fleurs-du-mal_800.jpg" crc="84074277" seo="true" ref="index"/>
+    <file name="nanisimonis_writing_calculation_800.jpg" crc="14484817" seo="true" ref="index"/>
+    <file name="nanisimonis_sketch_why_800.jpg" crc="4232597852" seo="true" ref="index"/>
+    <file name="nanisimonis_bronze_curves_800246x419.jpg" crc="3824552696" seo="true" ref="index"/>
+    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u2222052.jpg" crc="371850385" ref="index"/>
+    <file name="nanisimonis_sketchbook_ab-img_4847600x450.jpg" crc="3768257308" seo="true" ref="index"/>
+    <file name="nanisimonis_writing_angle_800260x356.jpg" crc="3837031432" seo="true" ref="index"/>
+    <file name="nanisimonis_painting_fleurs-du-mal_800292x356.jpg" crc="4183420765" seo="true" ref="index"/>
+    <file name="nanisimonis_writing_calculation_800267x356.jpg" crc="14484817" seo="true" ref="index"/>
+    <file name="nanisimonis_sketch_why_800273x356.jpg" crc="4117002111" seo="true" ref="index"/>
+    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u2222053.jpg" crc="371850385" ref="index"/>
+    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u2222054.jpg" crc="466690852" ref="index"/>
+    <file name="nanisimonis_bronze_curves_800188x320.jpg" crc="4054059480" seo="true" ref="index"/>
+    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u2222055.jpg" crc="4009644050" ref="index"/>
+    <file name="nanisimonis_writing_angle_800203x278.jpg" crc="319801710" seo="true" ref="index"/>
+    <file name="nanisimonis_painting_fleurs-du-mal_800228x278.jpg" crc="4090633670" seo="true" ref="index"/>
+    <file name="nanisimonis_writing_calculation_800208x277.jpg" crc="3774245140" seo="true" ref="index"/>
+    <file name="nanisimonis_sketch_why_800212x277.jpg" crc="3927691658" seo="true" ref="index"/>
+    <file name="nanisimonis_bronze_curves_800170x290.jpg" crc="4219127150" seo="true" ref="index"/>
+    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u2222056.jpg" crc="222016985" ref="index"/>
+    <file name="nanisimonis_sketchbook_ab-img_4847420x315.jpg" crc="3768257308" seo="true" ref="index"/>
+    <file name="nanisimonis_writing_angle_800184x251.jpg" crc="4121390514" seo="true" ref="index"/>
+    <file name="nanisimonis_painting_fleurs-du-mal_800206x251.jpg" crc="352555945" seo="true" ref="index"/>
+    <file name="nanisimonis_writing_calculation_800189x252.jpg" crc="4131066813" seo="true" ref="index"/>
+    <file name="nanisimonis_sketch_why_800193x252.jpg" crc="455540667" seo="true" ref="index"/>
+    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u2222057.jpg" crc="222016985" ref="index"/>
+    <file name="nanisimonis_sketchbook_ab-img_4847378x284.jpg" crc="3768257308" seo="true" ref="index"/>
+    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u2222058.jpg" crc="159980750" ref="index"/>
+    <file name="nanisimonis_sketchbook_ab-img_4847288x216.jpg" crc="344986491" seo="true" ref="index"/>
+    <file name="nanisimonis_mix_blind-seagull_2554_800-crop-u2222059.jpg" crc="428513231" ref="index"/>
   </folder>
-  <file name="index.html" crc="413764318" seo="true" mt="1473949668115" redirect="true"/>
-  <file name="one-life.html" crc="3847490925" seo="true" mt="1473949668115" redirect="true"/>
-  <file name="one-show.html" crc="4137608162" seo="true" mt="1473951436565" redirect="true"/>
+  <file name="index.html" crc="3981150539" seo="true" mt="1475186005909" redirect="true"/>
+  <file name="one-life.html" crc="99011001" seo="true" mt="1474129157762" redirect="true"/>
+  <file name="one-show.html" crc="3949704230" seo="true" mt="1475186119356" redirect="true"/>
 </manifest>
